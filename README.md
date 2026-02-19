@@ -93,6 +93,12 @@ python remwmgui.py
 | `--frame-step` | Process every Nth frame (default: 1 = all frames) |
 | `--target-fps` | Target output FPS (default: 0 = same as input) |
 
+### macOS Installer (double-click)
+
+Double-click **`install_mac.command`** in Finder. It opens a Terminal window and
+automatically creates a virtual environment, installs all dependencies, downloads
+the LaMa model, and offers to launch the GUI.
+
 ### Alternative Setup (Conda)
 
 ```bash
