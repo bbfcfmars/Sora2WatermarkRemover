@@ -1,0 +1,14 @@
+click
+numpy
+tqdm
+loguru
+Pillow
+opencv-python-headless
+transformers
+iopaint
+torch
+torchvision
+psutil
+PyYAML
+PyQt6
+matplotlib

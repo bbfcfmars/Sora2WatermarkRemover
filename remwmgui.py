@@ -466,8 +466,11 @@ class WatermarkRemoverGUI(QMainWindow):
         except (subprocess.SubprocessError, FileNotFoundError):
             return False
 
-if __name__ == "__main__":
+def main():
     app = QApplication(sys.argv)
     gui = WatermarkRemoverGUI()
     gui.show()
     sys.exit(app.exec())
+
+if __name__ == "__main__":
+    main()
