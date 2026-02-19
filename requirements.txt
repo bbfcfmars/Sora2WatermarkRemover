@@ -1,0 +1,14 @@
+click>=8.0
+numpy>=1.24
+tqdm>=4.60
+loguru>=0.6
+Pillow>=9.0
+opencv-python-headless>=4.7
+transformers>=4.30
+iopaint>=1.0
+torch>=2.0
+torchvision>=0.15
+psutil>=5.9
+PyYAML>=6.0
+PyQt6>=6.4
+matplotlib>=3.7
